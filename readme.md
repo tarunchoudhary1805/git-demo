@@ -6,4 +6,5 @@ now checking the set upstream is working or not
 now i have changed something on the new branch
 
 chnge will oucccur here
+some change
 changes added by master
